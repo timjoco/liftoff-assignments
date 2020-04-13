@@ -15,10 +15,10 @@ This idea is collaboration between my wife and I. My wife, Danielle, currently w
 
 
 ### Features
-1. User Login/Authentication: The user will sign in via Google OAuth. The user will be the person hosting the adoption at one of the offsite satellite locations
-2. Information Input: The user will enter the adopter's personal information as well as the cat's indentifying information
-3. Contract Signing: The contract will be hosted by a DocuSign API - this will be signed by the adopter and overseen by the app user
-4. Email Confirmation: An email will be sent to the adopter that confirms the adoption and includes supplementary material provided by KCPP
+- User Login/Authentication: The user will sign in via Google OAuth. The user will be the person hosting the adoption at one of the offsite satellite locations
+- Information Input: The user will enter the adopter's personal information as well as the cat's indentifying information
+- Contract Signing: The contract will be hosted by a DocuSign API - this will be signed by the adopter and overseen by the app's user
+- Email Confirmation: An email will be sent to the adopter that confirms the adoption and includes supplementary material provided by KCPP
 
 
 ### Technologies
@@ -30,7 +30,7 @@ This idea is collaboration between my wife and I. My wife, Danielle, currently w
 - Heroku
 
 ### What I'll Have to Learn
-I already have experience with React, Node.js, Passport.js, and Heroku. I will be actively learning Express.js and MongoDB. As of completing this outline, I already have completion of the server side that includes the Google OAuth for logging in and storing Google login information in MongoDB.  
+I already have experience with React, Node.js, Passport.js, and Heroku. I will be actively learning Express.js and MongoDB to handle the server side of the application.  
 
 
 ### Project Tracker
